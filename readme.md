@@ -1,2 +1,3 @@
-#git_course
+#git
+
 descreaption for the project
